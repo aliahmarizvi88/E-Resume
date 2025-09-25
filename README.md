@@ -1,3 +1,3 @@
 # JUST PORTFOLIO
 
-*** https://e-resume-alpha.vercel.app/
+Link: https://e-resume-alpha.vercel.app/
