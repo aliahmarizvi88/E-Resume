@@ -1,0 +1,7 @@
+@import 'tailwindcss';
+
+.body {
+  font-family: 'Alegreya', serif;
+  font-optical-sizing: auto;
+  overflow: hidden;
+}
